@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Hello! This is a simple self-introduction. "
+title: "👨‍💻 Hello! This is a simple self-introduction. "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# 👨‍💻 自我简介
 
 你好，我是一名专注于 **Java 开发** 的后端工程师，主攻方向为 **物联网（IoT）技术栈**，在实际项目中积累了丰富的开发经验与工程思维。
 
